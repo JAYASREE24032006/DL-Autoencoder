@@ -1,4 +1,7 @@
-# DL- Convolutional Autoencoder for Image Denoising
+# EX-7 : DL- CONVOLUTIONAL AUTOENCODER FOR IMADE DENOISING
+
+#### NAME : R.JAYASREE
+#### RNO : 212223040074
 
 ## AIM
 To develop a convolutional autoencoder for image denoising application.
@@ -35,35 +38,23 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
-
-### Register Number:
-
-```python
-# Autoencoder Definition
-class DenoisingAutoencoder(nn.Module):
-    def __init__(self):
 
 
-
-# Initialize model
-
-# Training function
-
-# Visualization function
-
-
-```
-
-### OUTPUT
+## OUTPUT
 
 ### Model Summary
-Include your model summary
+
+<img width="675" height="501" alt="image" src="https://github.com/user-attachments/assets/f82a716a-ccc6-421e-b8ec-0cdf893177d2" />
+
 
 ### Training loss
 
-## Original vs Noisy Vs Reconstructed Image
-Include a few sample images here.
+<img width="438" height="155" alt="image" src="https://github.com/user-attachments/assets/e733793f-a462-4cbb-bb5b-2bb239f5bf15" />
+
+### Original vs Noisy Vs Reconstructed Image
+
+<img width="1691" height="599" alt="image" src="https://github.com/user-attachments/assets/b4a54224-5285-480a-9c12-02c87f034d79" />
+
 
 ## RESULT
-Include your result here
+I
